@@ -44,7 +44,7 @@ require_once('cabecalho.php');
             <br /><br />Os direitos de autor revertem para a Alzheimer Portugal    
         </p>
        
-            <button class="voltar-atras-livro">voltar atrás</button>
+        <a href='http://localhost/projeto%20codemaster/home.php'> <button class="voltar-atras-livro">voltar atrás</button></a>
        
    
 

@@ -49,8 +49,8 @@ require_once('cabecalho.php');
             
             <br /><br />Edição: Agosto de 2011<br /> Dimensões: 143x220x14mm<br />Encadernação: Capa mole<br />Páginas: 159
         </p>
-       
-            <button class="voltar-atras-livro">voltar atrás</button>
+        <a href='http://localhost/projeto%20codemaster/home.php'> <button class="voltar-atras-livro">voltar atrás</button></a>
+           
        
    
 

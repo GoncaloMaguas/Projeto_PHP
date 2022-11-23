@@ -43,7 +43,7 @@ require_once('cabecalho.php');
 
             </p>
        
-            <button class="voltar-atras-livro">voltar atrás</button>
+            <a href='http://localhost/projeto%20codemaster/home.php'> <button class="voltar-atras-livro">voltar atrás</button></a>
        
    
 
