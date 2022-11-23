@@ -53,21 +53,23 @@
                     <div class="topo">
 
                         <div class="titulo ">Sebastião Alves</div>
-                        <hr>
+                        <hr class="linha-separadora">
 
                         <nav class="barra-de-navegacao">
                             <ul>
-                                <li><a href="#">home</a></li>
-                                <li> <a href="#">autor</a>
+                                <li><a href="http://localhost/projeto%20codemaster/home.php">home</a></li>
+                                <li> <a href="http://localhost/projeto%20codemaster/autor.php">autor</a></li>
+
+                                <li><a href="#">livros</a>
                                     <ul>
-                                        <li><a href="">autor-1</a></li>
-                                        <li><a href="">autor-2</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-4.php">senhora do amor e da guerra</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-1.php">o caracol estrábico</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-2.php">o coleccionador de amnésias</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-3.php">o velho que pensava que fugia</a></li>
                                     </ul>
                                 </li>
-
-                                <li><a href="#">livros</a></li>
-                                <li><a href="#">empresas</a></li>
-                                <li><a href="#">contactos</a></li>
+                                <li><a href="http://localhost/projeto%20codemaster/imprensa.php">imprensa</a></li>
+                                <li><a href="http://localhost/projeto%20codemaster/contactos.php">contactos</a></li>
                             </ul>
 
                         </nav>
@@ -97,21 +99,23 @@
                     <div class="topo">
 
                         <div class="titulo ">Sebastião Alves</div>
-                        <hr>
+                        <hr class="linha-separadora">
 
                         <nav class="barra-de-navegacao">
                             <ul>
-                                <li><a href="#">home</a></li>
-                                <li> <a href="#">autor</a>
+                                <li><a href="http://localhost/projeto%20codemaster/home.php">home</a></li>
+                                <li> <a href="http://localhost/projeto%20codemaster/autor.php">autor</a></li>
+
+                                <li><a href="#">livros</a>
                                     <ul>
-                                        <li><a href="">autor-1</a></li>
-                                        <li><a href="">autor-2</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-4.php">senhora do amor e da guerra</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-1.php">o caracol estrábico</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-2.php">o coleccionador de amnésias</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-3.php">o velho que pensava que fugia</a></li>
                                     </ul>
                                 </li>
-
-                                <li><a href="#">livros</a></li>
-                                <li><a href="#">empresas</a></li>
-                                <li><a href="#">contactos</a></li>
+                                <li><a href="http://localhost/projeto%20codemaster/imprensa.php">imprensa</a></li>
+                                <li><a href="http://localhost/projeto%20codemaster/contactos.php">contactos</a></li>
                             </ul>
 
                         </nav>
@@ -138,23 +142,23 @@
                     <div class="topo">
 
                         <div class="titulo">Sebastião Alves</div>
-                        <hr>
+                        <hr class="linha-separadora">
 
                         <nav class="barra-de-navegacao">
                             <ul>
-                                <li><a href="#">home</a></li>
-                                <li> <a href="#">autor</a></li>
+                                <li><a href="http://localhost/projeto%20codemaster/home.php">home</a></li>
+                                <li> <a href="http://localhost/projeto%20codemaster/autor.php">autor</a></li>
 
                                 <li><a href="#">livros</a>
                                     <ul>
-                                        <li><a href="">Senhora do amor e da guerra</a></li>
-                                        <li><a href="">o caracolc~estrábico</a></li>
-                                        <li><a href="">o coleccionador de amnésias</a></li>
-                                        <li><a href="">o velho que pensava que fugia</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-4.php">senhora do amor e da guerra</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-1.php">o caracol estrábico</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-2.php">o coleccionador de amnésias</a></li>
+                                        <li><a href="http://localhost/projeto%20codemaster/livros-3.php">o velho que pensava que fugia</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#">empresas</a></li>
-                                <li><a href="#">contactos</a></li>
+                                <li><a href="http://localhost/projeto%20codemaster/imprensa.php">imprensa</a></li>
+                                <li><a href="http://localhost/projeto%20codemaster/contactos.php">contactos</a></li>
                             </ul>
 
                         </nav>
