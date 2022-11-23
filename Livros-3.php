@@ -19,39 +19,39 @@ require_once('cabecalho.php');
 
 
 <header class="header4">
-        <div class="caixa-branca-autor">
-           <div class="autor">livros
+    <div class="caixa-branca-autor">
+        <div class="autor">livros
             <div class="sobre-mim">o velho que pensava que fugia
             </div>
-            </div>
-
         </div>
-    </header>
+
+    </div>
+</header>
 
 
 
-    <header class="header6">
-       
-        <p class="area-texto-livro1">
+<header class="header6">
+
+    <p class="area-texto-livro1">
         <img class="imagem-livro1" src="desktop/imagens/livro-conteudo4.jpg" alt="">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam mollitia, sint numquam fugiat quae delectus alias natus perspiciatis tempora harum perferendis sed nostrum quod consequuntur pariatur, doloremque repellendus vitae ea.
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et, cum reiciendis? Fuga voluptates esse soluta aliquam. Magnam nobis quo laborum rem, sed earum consequatur non architecto voluptatem, excepturi, praesentium saepe.<br />
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores!<br />
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores! <br />
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores! <br />
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores!
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae necessitatibus molestias vero animi nam laboriosam autem tenetur, consectetur at vel aut dicta blanditiis nesciunt numquam delectus soluta maxime, laudantium deserunt?
-            <br /><br />Edição: Novembro de 2017<br /> Dimensões: 139x218x13mm<br />Encadernação: Capa mole<br />Páginas: 168
-            </p>
-       
-            <a href='http://localhost/projeto%20codemaster/home.php'> <button class="voltar-atras-livro">voltar atrás</button></a>
-       
-   
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et, cum reiciendis? Fuga voluptates esse soluta aliquam. Magnam nobis quo laborum rem, sed earum consequatur non architecto voluptatem, excepturi, praesentium saepe.<br />
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores!<br />
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores! <br />
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores! <br />
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores!
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae necessitatibus molestias vero animi nam laboriosam autem tenetur, consectetur at vel aut dicta blanditiis nesciunt numquam delectus soluta maxime, laudantium deserunt?
+        <br /><br />Edição: Novembro de 2017<br /> Dimensões: 139x218x13mm<br />Encadernação: Capa mole<br />Páginas: 168
+    </p>
 
-        
+    <a href='http://localhost/projeto%20codemaster/home.php'> <button class="voltar-atras-livro">voltar atrás</button></a>
 
-    </header>
-    <?php
+
+
+
+
+</header>
+<?php
 require_once('rodape.php');
 require_once('footer.php');
 ?>

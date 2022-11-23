@@ -30,34 +30,34 @@ require_once('cabecalho.php');
 
 
 <header class="header8">
-    
-  
+
+
     <div class="caixa10">
         <div class="rodape-tipos-de-campo ">telefone</div>
         <p class="margem-esquerda-30">+351 123 456 789<br /><br /></p>
     </div>
-    
+
     <div class="caixa11">
 
         <div class="rodape-tipos-de-campo ">morada</div>
         <p class="margem-esquerda-30">Lorem ipsum dolor sit, 12 <br /> 1234-543 Lrem</p>
     </div>
-    
+
     <div class="caixa12">
         <div class="rodape-tipos-de-campo ">email</div>
         <p class="margem-esquerda-30">lorem@lorem.pt <br /><br /></p>
     </div>
-    <div class="d-flex justify-content-center margem-esquerda-142">    
+    <div class="d-flex justify-content-center margem-esquerda-142">
         <hr class="linha-separadora-contactos">
-      
+
     </div>
     <div class="rodape-tipos-de-campo d-flex justify-content-center margem-esquerda-142">horário</div>
-        <p class="d-flex justify-content-center margem-esquerda-142 margem-baixo-80">De Segunda a Sexta das 00:00h às 00:00h</p>
+    <p class="d-flex justify-content-center margem-esquerda-142 margem-baixo-80">De Segunda a Sexta das 00:00h às 00:00h</p>
 
 
 </header>
 
-    <?php
+<?php
 require_once('rodape.php');
 require_once('footer.php');
 ?>
