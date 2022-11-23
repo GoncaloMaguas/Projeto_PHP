@@ -1,0 +1,643 @@
+*{
+    padding: 0;
+ margin: 0;
+}   
+
+
+body{
+    width: auto;
+    height: auto;
+}
+
+
+.header1{
+    
+    
+    height: 730px;
+    max-width: 1280px;
+
+
+}
+
+.linha-separadora {
+
+  
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 0;
+    border-top: 1px solid;
+    height: 1px;
+    width: 1170px;
+    margin-left:55px;
+    border-color: #707070 ;
+
+
+}
+
+.textos-cabecalho{
+    margin-left: 40px ;
+    text-align: left ;
+   
+}
+.novidades{
+    margin-top: 122px;
+    text-align: left;
+    margin-left: 40px;
+    text-transform: uppercase;
+}
+
+.titulo-cabecalho{
+    margin-top: 15px;
+    margin-left: 40px;
+    line-height: 38px;
+
+}
+
+
+.botao-saber-mais{
+    margin-top:15px;
+    margin-left: 40px;
+  
+}
+
+
+
+.botao-saber-mais{
+    width: 120px;
+    height: 30px;
+    background-color: #A97339;
+    border: hidden;
+    color:white;
+    
+
+}
+
+.botao-saber-mais:hover{
+    background-color: grey;
+}
+
+
+
+
+
+
+.topo {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+.botao1{
+    background: url(/desktop/imagens/bolabanner1.svg) !important;
+}
+
+
+.sitio-certo {
+    bottom: 109px !important;
+
+}
+
+
+.imagem-cabecalho{
+    width: 100%;
+    height: 730px;
+}
+
+
+.caixa-branca{
+    position: relative;
+    background-color: white;
+    width: 1190px;
+    height: 538px;
+    margin-left: 90px;
+    bottom:45px;
+    box-shadow:2px 7px 38px 3px grey;
+
+}
+
+.imagem-bem-vindo{
+    position: relative;
+    margin-top: 60px;
+    margin-left: 40px ;
+    box-shadow:-1px 7px 18px grey;
+    
+}
+
+
+.titulo-bem-vindo{
+    
+    font-size: 25px;
+    color: #4D4D4D;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+
+.caixa-branca, .imagem-bem-vindo, .titulo-bem-vindo{
+    float: left;
+   
+}
+
+
+.texto-bem-vindo{
+    position: absolute;
+    margin-top: 30px;
+    margin-right: 50px;
+    width: auto;
+    height: auto;
+    font-size: 13px;
+    color: #4D4D4D;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+
+
+.bem-vindo-botao-saber-mais{
+    width: 120px;
+    height: 30px;
+    background-color: #A97339;
+    border: hidden;
+    color:white;
+    margin-top: 40px;
+    margin-left: 629px;
+
+}
+
+
+.bem-vindo-botao-saber-mais:hover{
+    background-color: grey;
+}
+
+.header2{
+    height: 538px;
+    max-width: 1280px;
+}
+
+
+.titulo-area-ultimos-livros{
+    font-size: 25px;
+    color: #4D4D4D;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 90px;
+    margin-top: 85px;
+}
+
+
+.texto-area-ultimos-livros{
+    margin-top: 23px;
+    margin-left: 90px;
+}
+
+.header3{
+    height: 300px;
+    max-width: 1222px;
+}
+
+
+
+.destaques{
+    margin-top: 70px;
+   
+    margin-left: 90px;
+    margin-bottom: 106px;
+    
+
+}
+
+
+
+.titulo-de-destaque{
+    margin-top: 30px;
+    margin-left: 25px;
+    font-size: 23px;
+    color: #4D4D4D;
+    font-weight: bold;
+    text-transform: uppercase;
+
+  
+}
+
+.caixa1{
+ display: inline-block;
+ height: 700px;
+ width: 325px !important;
+ margin-right: 58px;
+ box-shadow:2px 7px 38px 3px grey;
+}
+
+.caixa2{
+    display: inline-block;
+    height: 700px;
+    width: 325px !important;
+    margin-right: 58px;
+    box-shadow: 2px 32px 49px -6px grey;
+
+}
+
+.caixa3{
+    display: inline-block;
+    height: 700px;
+    width: 325px !important;
+    box-shadow: 2px 32px 49px -6px grey;
+
+}
+
+.espaçamento{
+    margin-top: 10px;
+}
+
+.categoria-destaque{
+    margin-left: 25px;
+
+    text-transform: uppercase;
+}
+
+.texto-destaque{
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.botao-destaques{
+    margin-top: 1px;
+    margin-left: 205px;
+    width: 120px;
+    height: 30px;
+    background-color: #A97339;
+    border: hidden;
+    color:white;
+}
+
+.botao-destaques:hover{
+    background-color: grey;
+}
+
+.linha-separadora2{
+
+  
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 0;
+    border-top: 1px solid;
+    height: 1px;
+    width: 1170px;
+    margin-left:55px;
+    border-color: #707070 ;
+
+
+}
+
+.linha-separadora-rodape{
+
+    border-top: 1px solid;
+    height: 1px;
+    width: 1170px;
+    margin-left:55px;
+    border-color: #707070 ;
+}
+
+
+.conteudo-seguinte{
+    margin-bottom: 50px;
+}
+
+
+.contactos{
+    margin-left: 171px;
+    font-weight: bold;
+    font-size:25px;
+    text-transform: uppercase;
+    color: #4D4D4D;
+    display: inline-block;
+
+}
+.rodape{
+    margin-left: 171px;
+}
+
+.rodape-tipos-de-campo {
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top:20px ;
+
+}
+
+.caixa4{
+    height: 50px;
+    width: 265px;
+    display: inline-block;
+}
+
+.caixa5{
+    height: 50px;
+    width: 159px;
+    display: inline-block;
+}
+
+.caixa6{
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+}
+.caixa7{
+    position:absolute;
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+    margin-left: 160px;
+    margin-top: 30px;
+}
+.caixa8{
+    position:absolute;
+    height:50px;
+    width: 100px;
+    display: inline-block;
+    margin-left: 235px;
+    margin-top: 30px;
+}
+.caixa9{
+    position:absolute;
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+    margin-left: 309px;
+    margin-top: 30px;
+}
+
+
+.redes-sociais-rodape{
+    display:inline-block ;
+    margin-left: 457px;
+}
+
+.livro-de-reclamacoes{
+    margin-top: 58px;
+    margin-left: 166px;
+    display: inline-block;
+
+}
+
+.ralc{
+    margin-left:39px;
+}
+
+.politica-de-cookies{
+    display: inline-block;
+    margin-left: 496px;
+    margin-bottom:0px ;
+    padding-bottom: 0px;
+}
+
+.copyright{
+height: 100px;
+margin-left: 626px;
+margin-bottom: 70px;
+
+}
+
+.sem-novidade{
+    margin-top: 120px;
+    height: 20px;
+}
+
+
+
+
+/*Autor*/
+
+.header4{
+    max-width: 1280px;
+    height: 130px;
+}
+
+.caixa-branca-autor{
+    position: relative;
+    background-color: white;
+    width: 1190px;
+    height: 130px;
+    margin-left: 90px;
+    bottom:45px;
+    box-shadow:2px 7px 38px 3px grey;
+    
+    }
+
+
+
+.autor{
+    position: absolute;
+    
+    margin-left: 55px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+
+.sobre-mim{
+    
+    font-size: 25px;
+color: #4D4D4D;
+font-weight: bold;
+text-transform: uppercase;
+margin-top: 10px;
+
+}
+
+
+
+.header5{
+
+    background-color: white;
+    max-width: 1280px;
+    margin-left: 55px;
+}
+
+.img-autor{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.area-texto{
+    margin-top: 65px;
+  
+    width: 998px;
+    margin-left: 55px;
+}
+
+
+
+
+
+/*Livros-1*/
+
+
+.header6{
+    max-width: 1280px;
+    margin-top: 65px;
+    background-color: white;
+    margin-left: 55px;
+}
+
+
+.imagem-livro1{
+    margin-left: 55px;
+    
+    margin-right: 90px;
+}
+
+
+.area-texto-livro1{
+   
+    margin-left: 44px;
+  
+    margin-right: 210px;
+    
+}
+
+
+
+
+.imagem-livro1, .area-texto-livro1{
+    float: left;
+   
+}
+
+
+
+
+/*Imprensa*/
+
+.header7{
+
+    max-width:1280px ;
+    background-color: white;
+ 
+    
+
+}
+
+
+.caixa-imprensa{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-left: 95px;
+   
+}
+
+
+.linha-separadora-imprensa{
+    margin-top: 12px;
+    stroke: 1px;
+    color: #A97339 ;
+    margin-left: 55px;
+    margin-right: 237px;
+}
+
+.margem-de-cima{
+    margin-top: 80px;
+
+}
+
+.margem-para-baixo{
+    margin-bottom: 60px;
+}
+
+.margem-esquerda{
+    margin-left: 55px;
+}
+
+.paginacao{
+    margin-top: 90px;
+   
+    display: flex;
+    justify-content: center;
+    
+}
+
+.margem-seta-esquerda{
+    margin-right:60px ;
+}
+
+.margem-seta-direita{
+    margin-left:60px ;
+}
+
+.margem-numeracao{
+    margin-right: 17px;
+}
+
+.paginacao-numeros:hover{
+    color:#B17E3B ;
+}
+
+.caixa-sombra{
+    box-shadow:-88px 88px 83px -102px grey
+}
+
+
+
+
+/*Contactos*/
+
+
+.header8{
+
+    max-width:1280px ;
+    background-color: white;
+ 
+    
+
+}
+
+.caixa10{
+    margin-left: 300px;
+    margin-top: 80px;
+    height: 50px;
+    width: 159px;
+    display: inline-block;
+   }
+
+   .caixa11{
+    margin-left: 68px;
+    margin-top: 80px;
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+   }
+
+   .caixa12{
+    margin-left: 107px;
+    margin-top: 80px;
+    height: 50px;
+    width: 265px;
+    display: inline-block;
+   }
+
+   .margem-esquerda-30{
+    margin-left: -30px;
+   }
+
+
+   .linha-separadora-contactos{
+    margin-top: 40px;
+    width: 60px;
+    height: 1px;
+    color: #707070 ;
+    margin-bottom: 40px;
+
+   }
+
+
+   .margem-esquerda-142{
+    margin-left: -142px;
+   }
+
+   .margem-baixo-80{
+    margin-bottom: 80px;
+   }
