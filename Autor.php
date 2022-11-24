@@ -1,3 +1,7 @@
+<?php
+require_once 'pag-read.php'; ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -45,7 +49,13 @@ require_once('cabecalho.php');
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, numquam quia. Delectus corporis minus explicabo temporibus voluptas dicta voluptatum tenetur laborum fugiat illo? Ipsum quidem maxime dolorem quas explicabo porro!
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore ullam consequatur magni quis rem vero a culpa. Quas fuga expedita voluptatibus assumenda sequi, perspiciatis atque laboriosam id vel dolor impedit.
     </p>
-    <button class="voltar-atras">voltar atrás</button>
+    <?php foreach ($projeto_codemaster as $projeto) : ?>
+        <tr>
+            <td><img class="marg-esq-55" width="200" height="200" src="<?php echo $projeto['picture'] ?>" alt="Não foi possivel mostrar a imagem"></td>
+        </tr>
+        <?php endforeach; ?>
+    </br>
+    <a href='http://localhost/projeto%20codemaster/home.php'> <button class="voltar-atras">voltar atrás</button></a>
 </header>
 
 
@@ -61,7 +71,3 @@ require_once('footer.php');
 
 
 
-
-<?php
-require_once('footer.php');
-?>

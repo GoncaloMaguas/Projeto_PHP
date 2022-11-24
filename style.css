@@ -641,3 +641,37 @@ margin-top: 10px;
    .margem-baixo-80{
     margin-bottom: 80px;
    }
+
+
+   /*mobile*/
+
+
+   @media only screen and (max-width:360px){
+    .header1{
+        width: 360px;
+        height: 760px;
+    }
+
+    .titulo{
+        margin-left:70px ;
+    }
+
+    .linha-separadora{
+        margin-top: 15px;
+        height: 1px;
+        color: #707070;
+    }
+    
+   }
+
+   /*backoffice*/
+
+
+   .marg-esq-55{
+    margin-left: 55px;
+   }
+
+
+   .marg-cima-50px{
+    margin-top: 50px;
+   }
