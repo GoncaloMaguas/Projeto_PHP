@@ -22,6 +22,3 @@ foreach ($projeto_codemaster as $projeto) : ?>
 
 
 
-
-
-

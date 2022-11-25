@@ -380,3 +380,29 @@ p{
     text-decoration: none;
 }
 
+
+
+/*backoffice*/
+
+.voltar-backoffice{
+
+        width: 132px;
+        height: 30px;
+        background-color: #B17E3B;
+        color: white;
+        border:none;
+        text-transform: uppercase;
+        font-family: 'Lato';
+        font-size: 11px;
+        margin-bottom: 75px;
+
+}
+
+
+
+
+.voltar-backoffice:hover{
+    background-color: grey;
+}
+
+
