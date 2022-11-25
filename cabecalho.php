@@ -34,7 +34,7 @@
                             <div class="novidades">Novidade</div>
                             <div class="titulo-cabecalho">Senhora do amor e da guerra</div>
                             <p class="texto-cabecalho">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum enim nam, rem maxime accusamus dolore, ab delectus mollitia veniam excepturi deleniti nobis adipisci error. Nulla blanditiis magni pariatur repellendus tempore!</p>
-                            <div><button class="botao-saber-mais">Saber mais</button> </div>
+                            <div> <a href='http://localhost/projeto%20codemaster/livros-4.php'><button class="botao-saber-mais">Saber mais</button></a> </div>
 
 
                         </div>
@@ -78,7 +78,7 @@
                             <div class="sem-novidade"></div>
                             <div class="titulo-cabecalho">o caracol estrábico</div>
                             <p class="texto-cabecalho">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum enim nam, rem maxime accusamus dolore, ab delectus mollitia veniam excepturi deleniti nobis adipisci error. Nulla blanditiis magni pariatur repellendus tempore!</p>
-                            <div><button class="botao-saber-mais">Saber mais</button> </div>
+                            <div> <a href='http://localhost/projeto%20codemaster/livros-1.php'><button class="botao-saber-mais">Saber mais</button> </a></div>
 
                         </div>
 
@@ -124,7 +124,7 @@
                             <div class="sem-novidade"></div>
                             <div class="titulo-cabecalho">o coleccionador de amnésias</div>
                             <p class="texto-cabecalho">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum enim nam, rem maxime accusamus dolore, ab delectus mollitia veniam excepturi deleniti nobis adipisci error. Nulla blanditiis magni pariatur repellendus tempore!</p>
-                            <div><button class="botao-saber-mais">Saber mais</button> </div>
+                            <div> <a href='http://localhost/projeto%20codemaster/livros-2.php'><button class="botao-saber-mais">Saber mais</button></a> </div>
                         </div>
 
                     </div>
@@ -167,7 +167,7 @@
                             <div class="sem-novidade"></div>
                             <div class="titulo-cabecalho">o velho que pensava que fugia</div>
                             <p class="texto-cabecalho">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum enim nam, rem maxime accusamus dolore, ab delectus mollitia veniam excepturi deleniti nobis adipisci error. Nulla blanditiis magni pariatur repellendus tempore!</p>
-                            <div><button class="botao-saber-mais">Saber mais</button> </div>
+                            <div> <a href='http://localhost/projeto%20codemaster/livros-3.php'><button class="botao-saber-mais">Saber mais</button> </a></div>
                         </div>
 
                     </div>
