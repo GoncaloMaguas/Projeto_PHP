@@ -29,7 +29,7 @@ require_once('cabecalho.php');
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, iusto accusamus temporibus deleniti assumenda mollitia doloremque, tempore sapiente quos quod corrupti numquam fugit enim explicabo error, voluptatem distinctio blanditiis illo. <br />
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, iusto accusamus temporibus deleniti assumenda mollitia doloremque, tempore sa piente quos quod corrupti numquam fugit enim explicabo error, voluptatem distinctio blanditiis illo. <br />
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, iusto accusamus temporibus deleniti assumenda mollitia doloremque, tempore sapiente quos quod corrupti numquam fugit enim explicabo error, voluptatem distinctio blanditiis illo. <br />
-                <button class="bem-vindo-botao-saber-mais">Saber mais</button>
+                <a href='http://localhost/projeto%20codemaster/autor.php'>  <button class="bem-vindo-botao-saber-mais">Saber mais</button></a>
 
             </p>
         </div>
@@ -54,21 +54,21 @@ require_once('cabecalho.php');
         <div class="espaçamento"></div>
         <div class="categoria-destaque">novidade</div>
         <p class="texto-destaque">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum eligendi accusamus tenetur veritatis neque nihil incidunt ratione esse corporis, quo voluptas eum non deleniti, tempore fuga dolorem reiciendis dicta alias!</p>
-        <button class="botao-destaques">Saber mais</button>
+        <a href='http://localhost/projeto%20codemaster/livros-4.php'>  <button class="botao-destaques">Saber mais</button></a>
     </div>
     <div class="caixa2"> <img src="desktop/imagens/livro2.jpg" alt="">
-        <div class="titulo-de-destaque">Senhora do amor e da guerra</div>
+        <div class="titulo-de-destaque">o velho que pensava que fugia</div>
         <div class="espaçamento"></div>
         <div class="categoria-destaque">mais vendido</div>
         <p class="texto-destaque">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum eligendi accusamus tenetur veritatis neque nihil incidunt ratione esse corporis, quo voluptas eum non deleniti, tempore fuga dolorem reiciendis dicta alias!</p>
-        <button class="botao-destaques">Saber mais</button>
+        <a href='http://localhost/projeto%20codemaster/livros-3.php'> <button class="botao-destaques">Saber mais</button></a>
     </div>
     <div class="caixa3"> <img src="desktop/imagens/livro3.jpg" alt="">
-        <div class="titulo-de-destaque">Senhora do amor e da guerra</div>
+        <div class="titulo-de-destaque">o coleccionador de amnésias</div>
         <div class="espaçamento"></div>
         <div class="categoria-destaque">em promoção</div>
         <p class="texto-destaque">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum eligendi accusamus tenetur veritatis neque nihil incidunt ratione esse corporis, quo voluptas eum non deleniti, tempore fuga dolorem reiciendis dicta alias!</p>
-        <button class="botao-destaques">Saber mais</button>
+        <a href='http://localhost/projeto%20codemaster/livros-2.php'>  <button class="botao-destaques">Saber mais</button></a>
     </div>
 
 
