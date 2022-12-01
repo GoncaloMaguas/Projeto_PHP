@@ -462,4 +462,75 @@ p{
         width: 245px;
         margin-bottom: 0px;
     }
+
+    .titulo-bem-vindo{
+        font-family: 'IBM Plex Sans';
+        font-weight: bold;
+        font-size: 22px;
+        text-transform: uppercase;
+        color: #4D4D4D;
+    }
+
+    .texto-bem-vindo{
+        font-family: 'IBM Plex Sans';
+        font-weight: lighter;
+        font-size: 13px;
+    
+        color: #4D4D4D;
+    }
+
+
+    .titulo-area-ultimos-livros{
+        font-family: 'IBM Plex Sans';
+        font-weight: bold;
+        font-size: 22px;
+        text-transform: uppercase;
+        color: #4D4D4D;
+    }
+
+    .texto-area-ultimos-livros{
+        font-family: 'IBM Plex Sans';
+        font-weight: lighter;
+        font-size: 13px;
+    
+        color: #4D4D4D;
+    }
+
+    .titulo-de-destaque{
+        font-family: 'IBM Plex Sans';
+        font-weight: bold;
+        font-size: 19px;
+        text-transform: uppercase;
+        color: #4D4D4D;
+
+    }
+
+    .texto-destaque{
+        font-family: 'IBM Plex Sans';
+        font-weight: lighter;
+        font-size: 13px;
+    
+        color: #4D4D4D;
+    }
+
+
+    .categoria-destaque{
+        font-size:15px;
+    }
+
+    .redes-sociais-rodape{
+        font-family: 'IBM Plex Sans';
+        font-weight: bold;
+        font-size: 22px;
+        text-transform: uppercase;
+        color: #4D4D4D;
+    }
+    
+    .contactos{
+        font-family: 'IBM Plex Sans';
+        font-weight: bold;
+        font-size: 22px;
+        text-transform: uppercase;
+        color: #4D4D4D;
+    }
 }

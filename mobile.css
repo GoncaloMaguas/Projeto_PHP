@@ -1,4 +1,6 @@
 @media only screen and (max-width:360px) {
+
+    /*Cabecalho*/
     .header1 {
         width: 360px;
         height: 760px;
@@ -200,5 +202,203 @@
 .sitio-certo {
     bottom: 109px !important;
     margin-left: 610px !important;
+    }
+
+
+    /*Home*/
+
+    .header2 {
+        max-width: 360px;
+        height: 1210px;
+        margin-top: 0px;
+    }
+    .caixa-branca {
+    
+        max-width: 360px;
+        height: 1210px;
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+
+    .imagem-bem-vindo{
+        margin-top: 73px;
+        margin-left: 24.5px !important;
+        box-shadow: 0px 13px 11px grey;
+    }
+
+    .titulo-bem-vindo{
+        margin-top: 35px;
+        margin-left: 24.5px !important;
+    }
+
+    .texto-bem-vindo{
+        margin-top: 20px;
+       margin-bottom: 0px;
+       width: 311px;
+    }
+
+    .bem-vindo-botao-saber-mais{
+        margin-top: 40px;
+        margin-left: 100px;
+        width: 101px;
+        height: 26px;
+
+    }
+
+    .bem-vindo-botao-saber-mais:hover{
+        background-color: #707070;
+    }
+
+
+    .titulo-area-ultimos-livros{
+        margin-top: 40px;
+        margin-left: 24.5px;
+        margin-right: 24.5px;
+    }
+
+    .texto-area-ultimos-livros{
+        margin-top: 20px;
+        margin-left: 24.5px;
+        margin-right: 24.5px;
+    }
+
+    .destaques{
+        margin-left: 24.5px;
+        margin-top: 282px;
+        margin-right: 24.5px;
+        margin-bottom: 0px;
+ 
+    }
+
+    .caixa1{
+        height: auto;
+        margin-top: 96px;
+        max-width: 218.69px !important;
+        margin-left: 46px;
+        margin-bottom: 60px;
+    }
+
+    .caixa1 img{
+        height: 288px;
+    }
+
+    .titulo-de-destaque{
+        margin-top: 30px;
+     
+
+    }
+
+    .texto-destaque{
+        margin-top: 14px;
+        margin-right: 24.5px;
+    }
+
+    .botao-destaques{
+        margin-top: 15px;
+        width: 101px;
+        height: 26px;
+        margin-left: 117.69px;
+    }
+
+    .caixa2{
+        height: auto;
+        max-width: 218.69px !important;
+        margin-left: 46px;
+        margin-bottom: 60px;
+    }
+
+    .caixa2 img{
+        height: 288px;
+    }
+
+    .caixa3{
+        height: auto;
+        max-width: 218.69px !important;
+        margin-left: 46px;
+        margin-bottom: 60px;
+    }
+
+    .caixa3 img{
+        height: 288px;
+    }
+
+    .linha-separadora-rodape{
+        margin-bottom:60px ;
+        margin-left: 68.5px;
+        width: 217.34px;
+    }
+
+    #barra-de-nav-mobile{
+        display: none;
+    }
+
+    #linha-sep-mobile{
+        display: none;
+    }
+
+    .contactos{
+        width: 360px;
+        margin-left: 111px;
+    }
+
+    .rodape-tipos-de-campo{
+        margin-left: -26px;
+        text-align: center;
+        max-width: 360px !important;
+    }
+
+    .margem-esquerda-30{
+        text-align: center;
+     
+    }
+
+    .caixa4{
+        margin-left: -109px;
+    }
+
+    .caixa5{
+        margin-left: -56px;
+    }
+
+    .caixa6{
+        margin-left:-18px ;
+    }
+
+    .redes-sociais-rodape{
+        margin-left: -209px;
+        position: absolute;
+        margin-top: 315px;
+        width: 360px;
+    }
+
+    .caixa7{
+        margin-top: 175px;
+        margin-left: -154px;
+    }
+    .caixa8{
+        margin-top: 175px;
+        margin-left: -84px;
+    }
+    .caixa9{
+        margin-top: 175px;
+        margin-left: -15px;
+    }
+
+    .livro-de-reclamacoes{
+        margin-top: 184px;
+        margin-left: 59px;
+    }
+
+
+    .politica-mobile{
+        margin-top: 42px;
+        margin-left: -437px;
+    }
+
+    .copyright{
+        text-align: center;
+        width: 237px;
+        margin-left: 433px;
+        margin-bottom: 60px;
     }
 }

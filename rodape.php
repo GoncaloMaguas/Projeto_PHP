@@ -1,6 +1,6 @@
 <hr class="linha-separadora-rodape">
 
-<nav class="barra-de-navegacao-rodape">
+<nav class="barra-de-navegacao-rodape" id="barra-de-nav-mobile">
     <ul>
         <li><a href="http://localhost/projeto%20codemaster/home.php">home</a></li>
         <li> <a href="http://localhost/projeto%20codemaster/autor.php">autor</a></li>
@@ -19,7 +19,7 @@
 
 </nav>
 
-<hr class="linha-separadora-rodape">
+<hr class="linha-separadora-rodape" id="linha-sep-mobile">
 <div class="conteudo-seguinte"></div>
 
 <div class="contactos"> Contactos
@@ -64,6 +64,9 @@
 
 <div class="livro-de-reclamacoes"><img src="desktop/imagens/livroreclamacoes.svg" alt="">
     <img src="desktop/imagens/ralc.svg" alt="" class="ralc">
+    <div class="politica-mobile">
     <p class="politica-de-cookies">Politica de cookies</p>
     <p class="copyright">Copyright 2021 Grupo MediaMaster. Todos os direitos reservados.</p>
+    </div>
+   
 </div>
