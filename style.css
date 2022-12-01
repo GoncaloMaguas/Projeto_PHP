@@ -1,18 +1,18 @@
-*{
+* {
     padding: 0;
- margin: 0;
-}   
+    margin: 0;
+}
 
 
-body{
+body {
     width: auto;
     height: auto;
 }
 
 
-.header1{
-    
-    
+.header1 {
+
+
     height: 730px;
     max-width: 1280px;
 
@@ -21,32 +21,33 @@ body{
 
 .linha-separadora {
 
-  
+
     margin-top: 15px;
     margin-bottom: 15px;
     border: 0;
     border-top: 1px solid;
     height: 1px;
     width: 1170px;
-    margin-left:55px;
-    border-color: #707070 ;
+    margin-left: 55px;
+    border-color: #707070;
 
 
 }
 
-.textos-cabecalho{
-    margin-left: 40px ;
-    text-align: left ;
-   
+.textos-cabecalho {
+    margin-left: 40px;
+    text-align: left;
+
 }
-.novidades{
+
+.novidades {
     margin-top: 122px;
     text-align: left;
     margin-left: 40px;
     text-transform: uppercase;
 }
 
-.titulo-cabecalho{
+.titulo-cabecalho {
     margin-top: 15px;
     margin-left: 40px;
     line-height: 38px;
@@ -54,25 +55,25 @@ body{
 }
 
 
-.botao-saber-mais{
-    margin-top:15px;
+.botao-saber-mais {
+    margin-top: 15px;
     margin-left: 40px;
-  
+
 }
 
 
 
-.botao-saber-mais{
+.botao-saber-mais {
     width: 120px;
     height: 30px;
     background-color: #A97339;
     border: hidden;
-    color:white;
-    
+    color: white;
+
 
 }
 
-.botao-saber-mais:hover{
+.botao-saber-mais:hover {
     background-color: grey;
 }
 
@@ -89,7 +90,7 @@ body{
 }
 
 
-.botao1{
+.botao1 {
     background: url(/desktop/imagens/bolabanner1.svg) !important;
 }
 
@@ -100,34 +101,34 @@ body{
 }
 
 
-.imagem-cabecalho{
+.imagem-cabecalho {
     width: 100%;
     height: 730px;
 }
 
 
-.caixa-branca{
+.caixa-branca {
     position: relative;
     background-color: white;
     width: 1190px;
     height: 538px;
     margin-left: 90px;
-    bottom:45px;
-    box-shadow:2px 7px 38px 3px grey;
+    bottom: 45px;
+    box-shadow: 2px 7px 38px 3px grey;
 
 }
 
-.imagem-bem-vindo{
+.imagem-bem-vindo {
     position: relative;
     margin-top: 60px;
-    margin-left: 40px ;
-    box-shadow:-1px 7px 18px grey;
-    
+    margin-left: 40px;
+    box-shadow: -1px 7px 18px grey;
+
 }
 
 
-.titulo-bem-vindo{
-    
+.titulo-bem-vindo {
+
     font-size: 25px;
     color: #4D4D4D;
     font-weight: bold;
@@ -137,13 +138,15 @@ body{
 
 }
 
-.caixa-branca, .imagem-bem-vindo, .titulo-bem-vindo{
+.caixa-branca,
+.imagem-bem-vindo,
+.titulo-bem-vindo {
     float: left;
-   
+
 }
 
 
-.texto-bem-vindo{
+.texto-bem-vindo {
     position: absolute;
     margin-top: 30px;
     margin-right: 50px;
@@ -157,29 +160,29 @@ body{
 
 
 
-.bem-vindo-botao-saber-mais{
+.bem-vindo-botao-saber-mais {
     width: 120px;
     height: 30px;
     background-color: #A97339;
     border: hidden;
-    color:white;
+    color: white;
     margin-top: 40px;
     margin-left: 629px;
 
 }
 
 
-.bem-vindo-botao-saber-mais:hover{
+.bem-vindo-botao-saber-mais:hover {
     background-color: grey;
 }
 
-.header2{
+.header2 {
     height: 538px;
     max-width: 1280px;
 }
 
 
-.titulo-area-ultimos-livros{
+.titulo-area-ultimos-livros {
     font-size: 25px;
     color: #4D4D4D;
     font-weight: bold;
@@ -189,30 +192,30 @@ body{
 }
 
 
-.texto-area-ultimos-livros{
+.texto-area-ultimos-livros {
     margin-top: 23px;
     margin-left: 90px;
 }
 
-.header3{
+.header3 {
     height: 300px;
     max-width: 1222px;
 }
 
 
 
-.destaques{
+.destaques {
     margin-top: 70px;
-   
+
     margin-left: 90px;
     margin-bottom: 106px;
-    
+
 
 }
 
 
 
-.titulo-de-destaque{
+.titulo-de-destaque {
     margin-top: 30px;
     margin-left: 25px;
     font-size: 23px;
@@ -220,18 +223,18 @@ body{
     font-weight: bold;
     text-transform: uppercase;
 
-  
+
 }
 
-.caixa1{
- display: inline-block;
- height: 700px;
- width: 325px !important;
- margin-right: 58px;
- box-shadow:2px 7px 38px 3px grey;
+.caixa1 {
+    display: inline-block;
+    height: 700px;
+    width: 325px !important;
+    margin-right: 58px;
+    box-shadow: 2px 7px 38px 3px grey;
 }
 
-.caixa2{
+.caixa2 {
     display: inline-block;
     height: 700px;
     width: 325px !important;
@@ -240,7 +243,7 @@ body{
 
 }
 
-.caixa3{
+.caixa3 {
     display: inline-block;
     height: 700px;
     width: 325px !important;
@@ -248,121 +251,125 @@ body{
 
 }
 
-.espaçamento{
+.espaçamento {
     margin-top: 10px;
 }
 
-.categoria-destaque{
+.categoria-destaque {
     margin-left: 25px;
 
     text-transform: uppercase;
 }
 
-.texto-destaque{
+.texto-destaque {
     margin-left: 25px;
     margin-top: 10px;
     margin-bottom: 0;
 }
 
-.botao-destaques{
+.botao-destaques {
     margin-top: 1px;
     margin-left: 205px;
     width: 120px;
     height: 30px;
     background-color: #A97339;
     border: hidden;
-    color:white;
+    color: white;
 }
 
-.botao-destaques:hover{
+.botao-destaques:hover {
     background-color: grey;
 }
 
-.linha-separadora2{
+.linha-separadora2 {
 
-  
+
     margin-top: 15px;
     margin-bottom: 15px;
     border: 0;
     border-top: 1px solid;
     height: 1px;
     width: 1170px;
-    margin-left:55px;
-    border-color: #707070 ;
+    margin-left: 55px;
+    border-color: #707070;
 
 
 }
 
-.linha-separadora-rodape{
+.linha-separadora-rodape {
 
     border-top: 1px solid;
     height: 1px;
     width: 1170px;
-    margin-left:55px;
-    border-color: #707070 ;
+    margin-left: 55px;
+    border-color: #707070;
 }
 
 
-.conteudo-seguinte{
+.conteudo-seguinte {
     margin-bottom: 50px;
 }
 
 
-.contactos{
+.contactos {
     margin-left: 171px;
     font-weight: bold;
-    font-size:25px;
+    font-size: 25px;
     text-transform: uppercase;
     color: #4D4D4D;
     display: inline-block;
 
 }
-.rodape{
+
+.rodape {
     margin-left: 171px;
 }
 
 .rodape-tipos-de-campo {
     text-transform: uppercase;
     font-size: 16px;
-    margin-top:20px ;
+    margin-top: 20px;
 
 }
 
-.caixa4{
+.caixa4 {
     height: 50px;
     width: 265px;
     display: inline-block;
 }
 
-.caixa5{
+.caixa5 {
     height: 50px;
     width: 159px;
     display: inline-block;
 }
 
-.caixa6{
+.caixa6 {
     height: 50px;
     width: 100px;
     display: inline-block;
 }
-.caixa7{
-    position:absolute;
+
+.caixa7 {
+    position: absolute;
     height: 50px;
     width: 100px;
     display: inline-block;
     margin-left: 160px;
     margin-top: 30px;
 }
-.caixa8{
-    position:absolute;
-    height:50px;
+
+.caixa8 {
+    position: absolute;
+    height: 50px;
     width: 100px;
     display: inline-block;
     margin-left: 235px;
     margin-top: 30px;
 }
-.caixa9{
-    position:absolute;
+
+.caixa9 {
+    position: absolute;
     height: 50px;
     width: 100px;
     display: inline-block;
@@ -371,37 +378,37 @@ body{
 }
 
 
-.redes-sociais-rodape{
-    display:inline-block ;
+.redes-sociais-rodape {
+    display: inline-block;
     margin-left: 457px;
 }
 
-.livro-de-reclamacoes{
+.livro-de-reclamacoes {
     margin-top: 58px;
     margin-left: 166px;
     display: inline-block;
 
 }
 
-.ralc{
-    margin-left:39px;
+.ralc {
+    margin-left: 39px;
 }
 
-.politica-de-cookies{
+.politica-de-cookies {
     display: inline-block;
     margin-left: 496px;
-    margin-bottom:0px ;
+    margin-bottom: 0px;
     padding-bottom: 0px;
 }
 
-.copyright{
-height: 100px;
-margin-left: 626px;
-margin-bottom: 70px;
+.copyright {
+    height: 100px;
+    margin-left: 626px;
+    margin-bottom: 70px;
 
 }
 
-.sem-novidade{
+.sem-novidade {
     margin-top: 120px;
     height: 20px;
 }
@@ -411,61 +418,61 @@ margin-bottom: 70px;
 
 /*Autor*/
 
-.header4{
+.header4 {
     max-width: 1280px;
     height: 130px;
 }
 
-.caixa-branca-autor{
+.caixa-branca-autor {
     position: relative;
     background-color: white;
     width: 1190px;
     height: 130px;
     margin-left: 90px;
-    bottom:45px;
-    box-shadow:2px 7px 38px 3px grey;
-    
-    }
+    bottom: 45px;
+    box-shadow: 2px 7px 38px 3px grey;
+
+}
 
 
 
-.autor{
+.autor {
     position: absolute;
-    
+
     margin-left: 55px;
     text-transform: uppercase;
     margin-top: 50px;
 }
 
-.sobre-mim{
-    
+.sobre-mim {
+
     font-size: 25px;
-color: #4D4D4D;
-font-weight: bold;
-text-transform: uppercase;
-margin-top: 10px;
+    color: #4D4D4D;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 10px;
 
 }
 
 
 
-.header5{
+.header5 {
 
     background-color: white;
     max-width: 1280px;
     margin-left: 55px;
 }
 
-.img-autor{
+.img-autor {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: auto;
 }
 
-.area-texto{
+.area-texto {
     margin-top: 65px;
-  
+
     width: 998px;
     margin-left: 55px;
 }
@@ -477,7 +484,7 @@ margin-top: 10px;
 /*Livros-1*/
 
 
-.header6{
+.header6 {
     max-width: 1280px;
     margin-top: 65px;
     background-color: white;
@@ -485,27 +492,28 @@ margin-top: 10px;
 }
 
 
-.imagem-livro1{
+.imagem-livro1 {
     margin-left: 55px;
-    
+
     margin-right: 90px;
 }
 
 
-.area-texto-livro1{
-   
+.area-texto-livro1 {
+
     margin-left: 44px;
-  
+
     margin-right: 210px;
-    
+
 }
 
 
 
 
-.imagem-livro1, .area-texto-livro1{
+.imagem-livro1,
+.area-texto-livro1 {
     float: left;
-   
+
 }
 
 
@@ -513,71 +521,71 @@ margin-top: 10px;
 
 /*Imprensa*/
 
-.header7{
+.header7 {
 
-    max-width:1280px ;
+    max-width: 1280px;
     background-color: white;
- 
-    
+
+
 
 }
 
 
-.caixa-imprensa{
+.caixa-imprensa {
     margin-top: 60px;
     margin-bottom: 60px;
     padding-left: 95px;
-   
+
 }
 
 
-.linha-separadora-imprensa{
+.linha-separadora-imprensa {
     margin-top: 12px;
     stroke: 1px;
-    color: #A97339 ;
+    color: #A97339;
     margin-left: 55px;
     margin-right: 237px;
 }
 
-.margem-de-cima{
+.margem-de-cima {
     margin-top: 80px;
 
 }
 
-.margem-para-baixo{
+.margem-para-baixo {
     margin-bottom: 60px;
 }
 
-.margem-esquerda{
+.margem-esquerda {
     margin-left: 55px;
 }
 
-.paginacao{
+.paginacao {
     margin-top: 90px;
-   
+
     display: flex;
     justify-content: center;
-    
+
 }
 
-.margem-seta-esquerda{
-    margin-right:60px ;
+.margem-seta-esquerda {
+    margin-right: 60px;
 }
 
-.margem-seta-direita{
-    margin-left:60px ;
+.margem-seta-direita {
+    margin-left: 60px;
 }
 
-.margem-numeracao{
+.margem-numeracao {
     margin-right: 17px;
 }
 
-.paginacao-numeros:hover{
-    color:#B17E3B ;
+.paginacao-numeros:hover {
+    color: #B17E3B;
 }
 
-.caixa-sombra{
-    box-shadow:-88px 88px 83px -102px grey
+.caixa-sombra {
+    box-shadow: -88px 88px 83px -102px grey
 }
 
 
@@ -586,92 +594,100 @@ margin-top: 10px;
 /*Contactos*/
 
 
-.header8{
+.header8 {
 
-    max-width:1280px ;
+    max-width: 1280px;
     background-color: white;
- 
-    
+
+
 
 }
 
-.caixa10{
+.caixa10 {
     margin-left: 300px;
     margin-top: 80px;
     height: 50px;
     width: 159px;
     display: inline-block;
-   }
+}
 
-   .caixa11{
+.caixa11 {
     margin-left: 68px;
     margin-top: 80px;
     height: 50px;
     width: 150px;
     display: inline-block;
-   }
+}
 
-   .caixa12{
+.caixa12 {
     margin-left: 107px;
     margin-top: 80px;
     height: 50px;
     width: 265px;
     display: inline-block;
-   }
+}
 
-   .margem-esquerda-30{
+.margem-esquerda-30 {
     margin-left: -30px;
-   }
+}
 
 
-   .linha-separadora-contactos{
+.linha-separadora-contactos {
     margin-top: 40px;
     width: 60px;
     height: 1px;
-    color: #707070 ;
+    color: #707070;
     margin-bottom: 40px;
 
-   }
+}
 
 
-   .margem-esquerda-142{
+.margem-esquerda-142 {
     margin-left: -142px;
-   }
+}
 
-   .margem-baixo-80{
+.margem-baixo-80 {
     margin-bottom: 80px;
-   }
+}
 
 
-   /*mobile*/
+/*mudar a imagem do botao para a imagem da cruz*/
 
+/*backoffice*/
 
-   @media only screen and (max-width:360px){
-    .header1{
-        width: 360px;
-        height: 760px;
-    }
+#btn-mobile {
+    display: none;
+    background-color: transparent;
+    border: none;
 
-    .titulo{
-        margin-left:70px ;
-    }
+}
 
-    .linha-separadora{
-        margin-top: 15px;
-        height: 1px;
-        color: #707070;
-    }
-    
-   }
+#btn-mobile1 {
+    display: none;
+    background-color: transparent;
+    border: none;
 
-   /*backoffice*/
+}
 
+#btn-mobile2 {
+    display: none;
+    background-color: transparent;
+    border: none;
 
-   .marg-esq-55{
+}
+
+#btn-mobile3 {
+    display: none;
+    background-color: transparent;
+    border: none;
+
+}
+
+.marg-esq-55 {
     margin-left: 55px;
-   }
+}
 
 
-   .marg-cima-50px{
+.marg-cima-50px {
     margin-top: 50px;
-   }
+}

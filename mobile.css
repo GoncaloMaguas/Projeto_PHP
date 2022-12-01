@@ -1,0 +1,204 @@
+@media only screen and (max-width:360px) {
+    .header1 {
+        width: 360px;
+        height: 760px;
+    }
+
+    .linha-separadora {
+        margin-top: 15px;
+        height: 1px;
+        color: #707070;
+        width: 255px;
+        position: absolute;
+        margin-left: 48px;
+    }
+
+    #btn-mobile{
+        display: inline-block !important;
+        margin-left: 37px;
+
+    }
+
+    #btn-mobile1{
+        display: inline-block !important;
+        margin-left: 37px;
+
+    }
+
+    #btn-mobile2{
+        display: inline-block !important;
+        margin-left: 37px;
+
+    }
+
+    #btn-mobile3{
+        display: inline-block !important;
+        margin-left: 37px;
+
+    }
+
+    #menu{
+        display: none !important;
+        margin-left: -215px;
+    }
+
+    #menu1{
+        display: none !important;
+        margin-left: -235px;
+    }
+
+    #menu2{
+        display: none !important;
+        margin-left: -235px;
+    }
+
+    #menu3{
+        display: none !important;
+        margin-left: -235px;
+    }
+
+
+    #barra-de-nav.active #menu{
+        display: block !important;
+
+ 
+    
+    }
+
+    .barra-de-navegacao li a:hover{
+        color:white !important;
+      
+       
+        }
+
+        .barra-de-navegacao-rodape li:hover ul, .menu li.over ul{
+          
+            color:white !important;
+        }
+
+    #barra-de-nav1.active #menu1{
+        display: block !important;
+ 
+    
+    }
+
+    #barra-de-nav2.active #menu2{
+        display: block !important;
+ 
+    
+    }
+
+    #barra-de-nav3.active #menu3{
+        display: block !important;
+ 
+    
+    }
+
+
+    .barra-de-navegacao li ul {
+        background-color: #D59D54 !important;
+        margin-left: 0px !important;
+        box-shadow: -1px 7px 18px grey;
+        
+    }
+
+    #barra-de-nav.active{
+        background-color: #D59D54 ;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-left: 0px;
+        text-align: left;
+        position: absolute  ;
+        width: 100%;
+        
+    }
+
+    #barra-de-nav1.active{
+        background-color: #D59D54 ;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-left: 0px;
+        text-align: left;
+        position: absolute  ;
+        width: 100%;
+        
+    }
+
+    #barra-de-nav2.active{
+        background-color: #D59D54 ;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-left: 0px;
+        text-align: left;
+        position: absolute  ;
+        width: 100%;
+        
+    }
+
+    #barra-de-nav3.active{
+        background-color: #D59D54 ;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-left: 0px;
+        text-align: left;
+        position: absolute  ;
+        width: 100%;
+        
+    }
+    
+    .padding-22px{
+        padding-bottom: 22px;
+    }
+
+    .novidades{
+        margin-top: 254px;
+        margin-left: 0px;
+    }
+
+    .sem-novidade{
+        margin-top: 254px;
+        margin-left: 0px;
+
+    }
+
+    .botao-saber-mais {
+        margin-left: 0px;
+        margin-top: 20px;
+}
+
+.texto-cabecalho {
+    margin-left: 0px !important;
+}
+
+.titulo-cabecalho {
+  
+    margin-left: 0px !important;
+    
+}
+
+
+.margin-right-btn1{
+    margin-right:100px;
+    margin-top: 105px;
+}
+
+
+.margin-right-btn2{
+    margin-right:24px;
+    margin-top: 105px;
+}
+
+.margin-right-btn3{
+    margin-right:-41px;
+    margin-top: 105px;
+}
+
+.margin-right-btn4{
+    margin-right:-106px;
+    margin-top: 105px;
+}
+.sitio-certo {
+    bottom: 109px !important;
+    margin-left: 610px !important;
+    }
+}

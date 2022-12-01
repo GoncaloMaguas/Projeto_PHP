@@ -406,3 +406,60 @@ p{
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*mobile*/
+
+@media only screen and (max-width:360px){
+
+    .titulo{
+        font-family: 'IBM Plex Sans';
+        font-weight: bold;
+        font-size: 20px;
+        text-transform: uppercase;
+        color: #4D4D4D;
+        width:309px;
+        margin-left:20px ;
+        
+    }
+
+    .titulo-cabecalho{
+        font-family: 'IBM Plex Sans';
+        font-weight: lighter;
+        font-size: 25px;
+        text-transform: uppercase;
+        color: #4D4D4D;
+        text-align: left;
+        margin-top: 25px;
+        width: 245px;
+        
+    }
+
+    .texto-cabecalho{
+        font-family: 'IBM Plex Sans';
+        font-weight: lighter;
+        font-size: 13px;
+    
+        color: #4D4D4D;
+        text-align: left;
+  
+        width: 245px;
+        margin-bottom: 0px;
+    }
+}
