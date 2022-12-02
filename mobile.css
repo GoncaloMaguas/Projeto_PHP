@@ -401,4 +401,77 @@
         margin-left: 433px;
         margin-bottom: 60px;
     }
+
+
+
+
+    /*autor*/
+
+
+.header4{
+    min-height: 130px;
+    max-width: 360px;
+    
+}
+
+.caixa-branca-autor{
+    min-height: 130px;
+    max-width: 360px;
+    margin-left: 0px;
+    margin-top:16px ;
+}
+
+.autor{
+    margin-top: 50px;
+    margin-left: 48px;
+}
+
+.sobre-mim{
+    margin-top: 10px;
+    margin-bottom: 14px;
+}
+
+
+.header5{
+    margin-top: 60px;
+    max-width:360px;
+    margin-left: 48px;
+}
+
+.img-autor{
+    width: 286px;
+    margin-left: 0px;
+}
+
+.area-texto{
+    margin-left: 0px;
+    width: 286px;
+}
+
+.voltar-atras{
+    margin-top: 20px;
+}
+
+#mais{
+    display: none;
+}
+
+.ver-mais{
+    margin-top: 40px;
+}
+
+.ver-mais-margin{
+    margin-top: 40px !important;
+    margin-bottom: 0px !important;
+}
+
+.voltar-atras-margin{
+    margin-top: 20px !important;
+
+}
+
+
+
+
+
 }

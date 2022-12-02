@@ -41,22 +41,23 @@ require_once('cabecalho.php');
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et, cum reiciendis? Fuga voluptates esse soluta aliquam. Magnam nobis quo laborum rem, sed earum consequatur non architecto voluptatem, excepturi, praesentium saepe.<br />
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores!<br />
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores! <br />
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores! <br />
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores!
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores! <span id="pontos">...</span> <br />
+       <span id="mais"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores!
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae necessitatibus molestias vero animi nam laboriosam autem tenetur, consectetur at vel aut dicta blanditiis nesciunt numquam delectus soluta maxime, laudantium deserunt?
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores! <br />
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quo minima doloribus iste dolores! Eligendi est voluptatem officia qui animi ipsum. Repellat expedita possimus consequuntur nobis optio vel officia maiores! <br />
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero rerum aperiam in maxime mollitia nihil soluta porro quo excepturi, harum vero omnis at? Recusandae quod quo culpa debitis, et necessitatibus!
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, numquam quia. Delectus corporis minus explicabo temporibus voluptas dicta voluptatum tenetur laborum fugiat illo? Ipsum quidem maxime dolorem quas explicabo porro!
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore ullam consequatur magni quis rem vero a culpa. Quas fuga expedita voluptatibus assumenda sequi, perspiciatis atque laboriosam id vel dolor impedit.
-    </p>
+        </span></p>
     <?php foreach ($projeto_codemaster as $projeto) : ?>
         <tr>
             <td><img class="marg-esq-55" width="200" height="200" src="<?php echo $projeto['picture'] ?>" alt="Não foi possivel mostrar a imagem"></td>
         </tr>
         <?php endforeach; ?>
-    </br>
-    <a href='http://localhost/projeto%20codemaster/home.php'> <button class="voltar-atras">voltar atrás</button></a>
+    </br> 
+    <button class="voltar-atras ver-mais-margin" onclick="leiaMais()" id="btnLerMais">ver mais</button></br>
+    <a href='http://localhost/projeto%20codemaster/home.php'> <button class="voltar-atras voltar-atras-margin">voltar atrás</button></a>
 </header>
 
 

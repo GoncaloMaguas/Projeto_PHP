@@ -58,7 +58,27 @@ function mostra_menu3(){
     nav.classList.toggle('active');
 }
 
-btnmobile.addEventListener('click', mostra_menu)
-btnmobile1.addEventListener('click', mostra_menu1)
-btnmobile2.addEventListener('click', mostra_menu2)
-btnmobile3.addEventListener('click', mostra_menu3)
+btnmobile.addEventListener('click', mostra_menu);
+btnmobile1.addEventListener('click', mostra_menu1);
+btnmobile2.addEventListener('click', mostra_menu2);
+btnmobile3.addEventListener('click', mostra_menu3);
+
+
+/*autor*/
+
+
+function leiaMais() {
+        var pontos=document.getElementById("pontos");
+        var maisTexto=document.getElementById("mais");
+        var btnLerMais=document.getElementById("btnLerMais");
+
+        if(pontos.style.display == "none"){
+            pontos.style.display="inline";
+            maisTexto.style.display="none";
+            btnLerMais.innerHTML="VER MAIS"    
+        } else{
+            pontos.style.display="none";
+            maisTexto.style.display="inline";
+            btnLerMais.innerHTML="VER MENOS"  
+        }
+}

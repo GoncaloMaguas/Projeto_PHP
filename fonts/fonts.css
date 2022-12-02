@@ -533,4 +533,14 @@ p{
         text-transform: uppercase;
         color: #4D4D4D;
     }
+
+    /*autor*/
+
+    .sobre-mim{
+        font-family: 'IBM Plex Sans';
+        font-weight: bold;
+        font-size: 22px;
+        text-transform: uppercase;
+        color: #4D4D4D;
+    }
 }
