@@ -424,11 +424,14 @@
 .autor{
     margin-top: 50px;
     margin-left: 48px;
+    line-height: 8px;
 }
 
 .sobre-mim{
     margin-top: 10px;
     margin-bottom: 14px;
+    width: 220px;
+    line-height: 25px;
 }
 
 
@@ -470,7 +473,35 @@
 
 }
 
+/*Livros-4*/
 
+
+.header6{
+    margin-left: 0px;
+    margin-top: 60px;
+}
+
+
+.imagem-livro1{
+    width: 213px;
+    height: 330px;
+    margin-left: 0px;
+    margin-right: 73.5px;
+    margin-bottom: 40px;
+}
+
+.area-texto-livro1{
+    margin-left: 73.5px;
+    width: 213px;
+    margin-bottom: 0px;
+}
+
+.voltar-atras-livro{
+    margin-top: 40px;
+    margin-left: 114px !important;
+    width: 132px;
+    height: 30px;
+}
 
 
 
