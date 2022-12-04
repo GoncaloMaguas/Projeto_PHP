@@ -504,5 +504,58 @@
 }
 
 
+/*imprensa*/
+
+.espaço-entre-linhas{
+    line-height: 23px !important;
+}
+
+
+
+.caixa-imprensa{
+    padding: 0px;
+}
+
+.linha-separadora-imprensa{
+    margin-top: 10px;
+    stroke: 1px;
+    color: #A97339 ;
+    width: 247px;
+    margin-bottom: 0px;
+}
+
+
+.data-de-publicacao{
+    margin-top: 10px;
+    margin-right: 55px !important;
+    width: auto;
+    margin-bottom: 60px;
+}
+
+.imagem-imprensa{
+    width :247px;
+}
+
+
+.texto-imprensa{
+    width:247px;
+    margin-bottom: 50px;
+}
+
+.margem-seta-esquerda{
+    width:10px ;
+    height: 35px;
+    margin-right: 26px !important;
+}
+.margem-seta-direita{
+    width:10px ;
+    height: 35px;
+    margin-left: 0px;
+}
+
+
+.margem-numeracao {
+    margin-right: 26px;
+}
 
 }

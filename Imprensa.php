@@ -20,8 +20,8 @@ require_once('cabecalho.php');
 
 
 <header class="header4">
-    <div class="caixa-branca-autor">
-        <div class="autor">imprensa
+    <div class="caixa-branca-autor ">
+        <div class="autor espaço-entre-linhas">imprensa
             <div class="sobre-mim">últimas notícias
             </div>
         </div>
@@ -37,7 +37,7 @@ require_once('cabecalho.php');
             <hr>
         </div>
         <div class="data-de-publicacao">publicado a 17 de junho de 2020</div>
-        <img class="margem-esquerda margem-para-baixo" src="desktop/imagens/conteudo-imprensa1.jpg" alt="">
+        <img class="imagem-imprensa margem-esquerda margem-para-baixo" src="desktop/imagens/conteudo-imprensa1.jpg" alt="">
 
     </div>
 
@@ -49,7 +49,7 @@ require_once('cabecalho.php');
             <hr>
         </div>
         <div class="data-de-publicacao">publicado a 6 de dezembro de 2017</div>
-        <img class="margem-esquerda" src="desktop/imagens/conteudo-imprensa2.jpg" alt="">
+        <img class="margem-esquerda imagem-imprensa" src="desktop/imagens/conteudo-imprensa2.jpg" alt="">
         <p class="texto-imprensa"></br></br></br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum consectetur iure laudantium fugiat recusandae nobis nisi, sapiente voluptate neque, a enim dignissimos ipsum voluptatum reprehenderit tempore. Nulla facilis deserunt sequi! </br>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam vel tempore tempora velit totam ullam voluptate quidem? Architecto eligendi quaerat voluptate unde facere esse nostrum, sed, mollitia labore sunt molestias.
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi consequatur quo numquam debitis ex inventore animi perferendis unde dolorum laborum vero hic dolor itaque impedit ut, tempore accusantium asperiores et!</br>
@@ -64,7 +64,7 @@ require_once('cabecalho.php');
             <a class="margem-numeracao paginacao-numeros" href="">2</a>
             <a class="margem-numeracao paginacao-numeros" href="">3</a>
             <a class="margem-numeracao paginacao-numeros" href="">...</a>
-            <a class="paginacao-numeros" href="">10</a>
+            <a class="margem-numeracao paginacao-numeros" href="">10</a>
             <a href=""> <img src="desktop/imagens/setadireita1.svg" width="17px" height="30px" class="margem-seta-direita" alt=""></a>
         </div>
     </div>

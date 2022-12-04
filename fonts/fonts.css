@@ -542,5 +542,34 @@ p{
         font-size: 22px;
         text-transform: uppercase;
         color: #4D4D4D;
+        width: 260px;
     }
+
+    /*imprensa*/
+
+        .titulo-imprensa{
+            font-family: 'IBM Plex Sans';
+            font-weight: bold;
+            font-size: 22px;
+            text-transform: uppercase;
+            color: #4D4D4D;
+            
+        }
+
+
+        .data-de-publicacao{
+            font-family: 'IBM Plex Sans';
+            font-weight: medium;
+            font-size: 13px;
+            text-transform: uppercase;
+            color: #4D4D4D;
+        }
+
+
+      .texto-imprensa{
+        font-family: 'IBM Plex Sans';
+        font-weight: lighter;
+        font-size: 13px;
+        color: #4D4D4D;
+      } 
 }
