@@ -49,11 +49,11 @@ require_once('cabecalho.php');
         <p class="margem-esquerda-30">lorem@lorem.pt <br /><br /></p>
     </div>
     <div class="d-flex justify-content-center margem-esquerda-142">
-        <hr class="linha-separadora-contactos">
+        <hr class=" hr linha-separadora-contactos">
 
     </div>
-    <div class="rodape-tipos-de-campo d-flex justify-content-center margem-esquerda-142">horário</div>
-    <p class="d-flex justify-content-center margem-esquerda-142 margem-baixo-80">De Segunda a Sexta das 00:00h às 00:00h</p>
+    <div class="horario rodape-tipos-de-campo d-flex justify-content-center margem-esquerda-142">horário</div>
+    <p class=" horario d-flex justify-content-center margem-esquerda-142 margem-baixo-80">De Segunda a Sexta das 00:00h às 00:00h</p>
 
 
 </header>

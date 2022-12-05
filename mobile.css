@@ -415,7 +415,7 @@
 }
 
 .caixa-branca-autor{
-    min-height: 130px;
+    min-height: 157px;
     max-width: 360px;
     margin-left: 0px;
     margin-top:16px ;
@@ -558,4 +558,42 @@
     margin-right: 26px;
 }
 
+
+
+/*Contactos*/
+
+.header8{
+    width: 360px !important;
+}
+
+.caixa10{
+    width: 159px;
+    margin-top: 60px;
+    margin-left: 119px;
+    margin-bottom: 65px;
+}
+
+.caixa11{
+    width: 159px;
+    margin-left: 119px !important;
+    margin-bottom: 65px !important;
+}
+
+.caixa12{
+    width: 159px;
+    margin-left: 119px !important;
+    margin-bottom: 65px !important;
+}
+
+
+.hr{
+    max-width: 360px;
+    margin-left: 150px;
+    
+}
+
+.horario{
+    margin-left: 20px;
+    
+}
 }
