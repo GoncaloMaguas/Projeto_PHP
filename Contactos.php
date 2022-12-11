@@ -22,7 +22,7 @@ require_once('cabecalho.php');
 <header class="header4">
     <div class="caixa-branca-autor">
         <div class="autor">contactos
-            <div class="sobre-mim">Pode contactar-me atraés do e-mail ou telefone
+            <div class="sobre-mim">Pode contactar-me através do e-mail ou telefone
             </div>
         </div>
 
