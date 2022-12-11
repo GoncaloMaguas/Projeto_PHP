@@ -57,7 +57,7 @@ require_once('cabecalho.php');
         <?php endforeach; ?>
     </br> 
     <button class="voltar-atras ver-mais-margin" onclick="leiaMais()" id="btnLerMais">ver mais</button></br>
-    <a href='http://localhost/projeto%20codemaster/home.php'> <button class="voltar-atras voltar-atras-margin">voltar atrás</button></a>
+    <a href='http://38.242.141.223/goncalo/htdocs/Home.php'> <button class="voltar-atras voltar-atras-margin">voltar atrás</button></a>
 </header>
 
 

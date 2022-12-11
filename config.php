@@ -1,10 +1,10 @@
 <?php
 
 // Define as configurações de acesso à base de dados.
-define('DB_HOST', '127.0.0.1');
-define('DB_NAME', 'codemaster');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', '38.242.141.223');
+define('DB_NAME', 'goncalo');
+define('DB_USER', 'goncalo');
+define('DB_PASS', '12345');
 define('DB_PORT', '3306');
 
 /**

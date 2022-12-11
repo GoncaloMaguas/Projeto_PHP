@@ -2,19 +2,19 @@
 
 <nav class="barra-de-navegacao-rodape" id="barra-de-nav-mobile">
     <ul>
-        <li><a href="http://localhost/projeto%20codemaster/home.php">home</a></li>
-        <li> <a href="http://localhost/projeto%20codemaster/autor.php">autor</a></li>
+        <li><a href="http://38.242.141.223/goncalo/htdocs/Home.php">home</a></li>
+        <li> <a href="http://38.242.141.223/goncalo/htdocs/Autor.php">autor</a></li>
 
         <li><a href="#">livros</a>
             <ul>
-                <li><a href="http://localhost/projeto%20codemaster/livros-4.php">senhora do amor e da guerra</a></li>
-                <li><a href="http://localhost/projeto%20codemaster/livros-1.php">o caracol estrábico</a></li>
-                <li><a href="http://localhost/projeto%20codemaster/livros-2.php">o coleccionador de amnésias</a></li>
-                <li><a href="http://localhost/projeto%20codemaster/livros-3.php">o velho que pensava que fugia</a></li>
+                <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-4.php">senhora do amor e da guerra</a></li>
+                <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-1.php">o caracol estrábico</a></li>
+                <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-2.php">o coleccionador de amnésias</a></li>
+                <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-3.php">o velho que pensava que fugia</a></li>
             </ul>
         </li>
-        <li><a href="http://localhost/projeto%20codemaster/imprensa.php">imprensa</a></li>
-        <li><a href="http://localhost/projeto%20codemaster/contactos.php">contactos</a></li>
+        <li><a href="http://38.242.141.223/goncalo/htdocs/Imprensa.php">imprensa</a></li>
+        <li><a href="http://38.242.141.223/goncalo/htdocs/Contactos.php">contactos</a></li>
     </ul>
 
 </nav>

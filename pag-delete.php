@@ -17,7 +17,7 @@ if ( empty($_GET['id'])  ||  !((int)$_GET['id'])){
             ?> 
             </br>
             </br>
-            <a href='http://localhost/projeto%20codemaster/pag-backoffice.php'> <button>voltar para o backoffice</button></a>
+            <a href='http://38.242.141.223/goncalo/htdocs/pag-backoffice.php'> <button>voltar para o backoffice</button></a>
             
             
             <?php

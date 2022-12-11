@@ -56,6 +56,6 @@ if (
 </div>
 
 <div class="d-flex justify-content-center">
-<a href='http://localhost/projeto%20codemaster/home.php'><button class="voltar-backoffice ">voltar para o home</button></a>
+<a href='http://38.242.141.223/goncalo/htdocs/Home.php'><button class="voltar-backoffice ">voltar para o home</button></a>
 
 </div>

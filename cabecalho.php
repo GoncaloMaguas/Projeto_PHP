@@ -17,19 +17,19 @@
                         <nav class="barra-de-navegacao" id="barra-de-nav">
 
                             <ul id="menu">
-                                <li class="padding-22px"><a href="http://localhost/projeto%20codemaster/home.php">home</a></li>
-                                <li class="padding-22px"> <a href="http://localhost/projeto%20codemaster/autor.php">autor</a></li>
+                                <li class="padding-22px"><a href="http://38.242.141.223/goncalo/htdocs/Home.php">home</a></li>
+                                <li class="padding-22px"> <a href="http://38.242.141.223/goncalo/htdocs/Autor.php">autor</a></li>
 
                                 <li class="padding-22px"><a href="#">livros</a>
                                     <ul>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-4.php">senhora do amor e da guerra</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-1.php">o caracol estrábico</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-2.php">o coleccionador de amnésias</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-3.php">o velho que pensava que fugia</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-4.php">senhora do amor e da guerra</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-1.php">o caracol estrábico</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-2.php">o coleccionador de amnésias</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-3.php">o velho que pensava que fugia</a></li>
                                     </ul>
                                 </li>
-                                <li class="padding-22px"><a href="http://localhost/projeto%20codemaster/imprensa.php">imprensa</a></li>
-                                <li class=""><a href="http://localhost/projeto%20codemaster/contactos.php">contactos</a></li>
+                                <li class="padding-22px"><a href="http://38.242.141.223/goncalo/htdocs/Imprensa.php">imprensa</a></li>
+                                <li class=""><a href="http://38.242.141.223/goncalo/htdocs/Contactos.php">contactos</a></li>
                             </ul>
 
                         </nav>
@@ -39,7 +39,7 @@
                             <div class="novidades">Novidade</div>
                             <div class="titulo-cabecalho">Senhora do amor e da guerra</div>
                             <p class="texto-cabecalho">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum enim nam, rem maxime accusamus dolore, ab delectus mollitia veniam excepturi deleniti nobis adipisci error. Nulla blanditiis magni pariatur repellendus tempore!</p>
-                            <div> <a href='http://localhost/projeto%20codemaster/livros-4.php'><button class="botao-saber-mais">Saber mais</button></a> </div>
+                            <div> <a href='http://38.242.141.223/goncalo/htdocs/Livros-4.php'><button class="botao-saber-mais">Saber mais</button></a> </div>
 
 
                         </div>
@@ -70,19 +70,19 @@
                         <nav class="barra-de-navegacao" id="barra-de-nav1">
 
                             <ul id="menu1">
-                                <li class="padding-22px"><a href="http://localhost/projeto%20codemaster/home.php">home</a></li>
-                                <li class="padding-22px"> <a href="http://localhost/projeto%20codemaster/autor.php">autor</a></li>
+                                <li class="padding-22px"><a href="http://38.242.141.223/goncalo/htdocs/Home.php">home</a></li>
+                                <li class="padding-22px"> <a href="http://38.242.141.223/goncalo/htdocs/Autor.php">autor</a></li>
 
                                 <li class="padding-22px"><a href="#">livros</a>
                                     <ul>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-4.php">senhora do amor e da guerra</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-1.php">o caracol estrábico</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-2.php">o coleccionador de amnésias</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-3.php">o velho que pensava que fugia</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-4.php">senhora do amor e da guerra</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-1.php">o caracol estrábico</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-2.php">o coleccionador de amnésias</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-3.php">o velho que pensava que fugia</a></li>
                                     </ul>
                                 </li>
-                                <li class="padding-22px"><a href="http://localhost/projeto%20codemaster/imprensa.php">imprensa</a></li>
-                                <li><a href="http://localhost/projeto%20codemaster/contactos.php">contactos</a></li>
+                                <li class="padding-22px"><a href="http://38.242.141.223/goncalo/htdocs/Imprensa.php">imprensa</a></li>
+                                <li><a href="http://38.242.141.223/goncalo/htdocs/contactos.php">contactos</a></li>
                             </ul>
 
                         </nav>
@@ -91,7 +91,7 @@
                             <div class="sem-novidade"></div>
                             <div class="titulo-cabecalho">o caracol estrábico</div>
                             <p class="texto-cabecalho">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum enim nam, rem maxime accusamus dolore, ab delectus mollitia veniam excepturi deleniti nobis adipisci error. Nulla blanditiis magni pariatur repellendus tempore!</p>
-                            <div> <a href='http://localhost/projeto%20codemaster/livros-1.php'><button class="botao-saber-mais">Saber mais</button> </a></div>
+                            <div> <a href='http://38.242.141.223/goncalo/htdocs/Livros-1.php'><button class="botao-saber-mais">Saber mais</button> </a></div>
 
                         </div>
 
@@ -123,19 +123,19 @@
                         <nav class="barra-de-navegacao" id="barra-de-nav2">
 
                             <ul id="menu2">
-                                <li class="padding-22px"><a href="http://localhost/projeto%20codemaster/home.php">home</a></li>
-                                <li class="padding-22px"> <a href="http://localhost/projeto%20codemaster/autor.php">autor</a></li>
+                                <li class="padding-22px"><a href="http://38.242.141.223/goncalo/htdocs/Home.php">home</a></li>
+                                <li class="padding-22px"> <a href="http://38.242.141.223/goncalo/htdocs/Autor.php">autor</a></li>
 
                                 <li class="padding-22px"><a href="#">livros</a>
                                     <ul>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-4.php">senhora do amor e da guerra</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-1.php">o caracol estrábico</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-2.php">o coleccionador de amnésias</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-3.php">o velho que pensava que fugia</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-4.php">senhora do amor e da guerra</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-1.php">o caracol estrábico</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-2.php">o coleccionador de amnésias</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-3.php">o velho que pensava que fugia</a></li>
                                     </ul>
                                 </li>
-                                <li class="padding-22px"><a href="http://localhost/projeto%20codemaster/imprensa.php">imprensa</a></li>
-                                <li><a href="http://localhost/projeto%20codemaster/contactos.php">contactos</a></li>
+                                <li class="padding-22px"><a href="http://38.242.141.223/goncalo/htdocs/Imprensa.php">imprensa</a></li>
+                                <li><a href="http://38.242.141.223/goncalo/htdocs/Contactos.php">contactos</a></li>
                             </ul>
 
                         </nav>
@@ -144,7 +144,7 @@
                             <div class="sem-novidade"></div>
                             <div class="titulo-cabecalho">o coleccionador de amnésias</div>
                             <p class="texto-cabecalho">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum enim nam, rem maxime accusamus dolore, ab delectus mollitia veniam excepturi deleniti nobis adipisci error. Nulla blanditiis magni pariatur repellendus tempore!</p>
-                            <div> <a href='http://localhost/projeto%20codemaster/livros-2.php'><button class="botao-saber-mais">Saber mais</button></a> </div>
+                            <div> <a href='http://38.242.141.223/goncalo/htdocs/Livros-2.php'><button class="botao-saber-mais">Saber mais</button></a> </div>
                         </div>
 
                     </div>
@@ -173,19 +173,19 @@
                         <nav class="barra-de-navegacao" id="barra-de-nav3">
 
                             <ul id="menu3">
-                                <li class="padding-22px"><a href="http://localhost/projeto%20codemaster/home.php">home</a></li>
-                                <li class="padding-22px"> <a href="http://localhost/projeto%20codemaster/autor.php">autor</a></li>
+                                <li class="padding-22px"><a href="http://38.242.141.223/goncalo/htdocs/Home.php">home</a></li>
+                                <li class="padding-22px"> <a href="http://38.242.141.223/goncalo/htdocs/Autor.php">autor</a></li>
 
                                 <li class="padding-22px"><a href="#">livros</a>
                                     <ul>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-4.php">senhora do amor e da guerra</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-1.php">o caracol estrábico</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-2.php">o coleccionador de amnésias</a></li>
-                                        <li><a href="http://localhost/projeto%20codemaster/livros-3.php">o velho que pensava que fugia</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-4.php">senhora do amor e da guerra</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-1.php">o caracol estrábico</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-2.php">o coleccionador de amnésias</a></li>
+                                        <li><a href="http://38.242.141.223/goncalo/htdocs/Livros-3.php">o velho que pensava que fugia</a></li>
                                     </ul>
                                 </li>
-                                <li class="padding-22px"><a href="http://localhost/projeto%20codemaster/imprensa.php">imprensa</a></li>
-                                <li class=""><a href="http://localhost/projeto%20codemaster/contactos.php">contactos</a></li>
+                                <li class="padding-22px"><a href="http://38.242.141.223/goncalo/htdocs/Imprensa.php">imprensa</a></li>
+                                <li class=""><a href="http://38.242.141.223/goncalo/htdocs/Contactos.php">contactos</a></li>
                             </ul>
 
                         </nav>
@@ -194,7 +194,7 @@
                             <div class="sem-novidade"></div>
                             <div class="titulo-cabecalho">o velho que pensava que fugia</div>
                             <p class="texto-cabecalho">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum enim nam, rem maxime accusamus dolore, ab delectus mollitia veniam excepturi deleniti nobis adipisci error. Nulla blanditiis magni pariatur repellendus tempore!</p>
-                            <div> <a href='http://localhost/projeto%20codemaster/livros-3.php'><button class="botao-saber-mais">Saber mais</button> </a></div>
+                            <div> <a href='http://38.242.141.223/goncalo/htdocs/Livros-3.php'><button class="botao-saber-mais">Saber mais</button> </a></div>
                         </div>
 
                     </div>

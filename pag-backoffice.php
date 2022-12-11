@@ -1,6 +1,6 @@
 <?php
 /*
-Para aceder á página backoffice será nessecário inserir na barra de pesquisa do navegador o seguinte código: http://localhost/projeto%20codemaster/pag-backoffice.php
+Para aceder á página backoffice será nessecário inserir na barra de pesquisa do navegador o seguinte código: http://38.242.141.223/goncalo/htdocs/pag-backoffice.php
 */ 
 
 require_once 'pag-create.php';
